@@ -1,0 +1,41 @@
+ [{
+      "image": "../images/1989.jpg",
+      "audio": "../audio/Style.mp3",
+      "song": "style",
+      "album": "1989",
+      "singer": "Taylorswift",
+      "duration": 230,
+      "islike": true,
+      "lyric":"../lyric/Style.lrc"
+    },
+    {
+      "image": "../images/speaknow.jpg",
+      "audio": "../audio/Back to December.mp3",
+      "song": "Back to December",
+      "album": "speak now",
+      "singer": "Taylorswift",
+      "duration": 294,
+      "islike": true,
+      "lyric":"../lyric/Back to December.lrc"
+    },
+    {
+      "image": "../images/speaknow.jpg",
+      "audio": "../audio/Enchanted.mp3",
+      "song": "Enchanted",
+      "album": "speak now",
+      "singer": "Taylorswift",
+      "duration": 352,
+      "islike": true,
+      "lyric":"../lyric/Enchanted.lrc"
+    },
+    {
+      "image": "../images/reputation.jpg",
+      "audio": "../audio/Delicate.mp3",
+      "song": "Delicate",
+      "album": "reputation",
+      "singer": "Taylorswift",
+      "duration": 232,
+      "islike": true,
+      "lyric":"../lyric/Delicate.lrc"
+    }
+ ]
